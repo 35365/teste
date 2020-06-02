@@ -1,7 +1,7 @@
-ola
-aa
-ss
-df
-vv
-acaf
+ola\n
+aa\n
+ss\n
+df\n
+vv\n
+acaf\n
 \0
